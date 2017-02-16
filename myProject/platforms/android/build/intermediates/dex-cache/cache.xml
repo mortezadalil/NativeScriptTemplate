@@ -9,32 +9,11 @@
         <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.0.1_ff37eacd40baa4744d8abdfae6f5ff8fa4817b79.jar" />
     </item>
     <item
-        jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.0.1_946dd10d61704818b472a14905b4816b27dd0df4.jar" />
-    </item>
-    <item
-        jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.1_37463f4a5234e0eb08faff8d0b2d95e214d84a5e.jar" />
-    </item>
-    <item
         jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="false"
         revision="25.0.2"
         sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
         <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.1_fa1bee10e9b032d3ce2a7f610f2f9a3eea1211d3.jar" />
-    </item>
-    <item
-        jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
-        <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.0.1_c730653aad209c46cbea77fdb307fa24edb423f4.jar" />
     </item>
     <item
         jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
@@ -51,18 +30,81 @@
         <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.0.1_553f1a5fe5f7a2c3b5bf4524337d02b9d53dea8f.jar" />
     </item>
     <item
-        jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.1_aef474ca4ca28049031e3632f43b97d24dc8113f.jar" />
-    </item>
-    <item
         jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
         jumboMode="false"
         revision="25.0.2"
         sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
         <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.0.1_b3aab6425e565d0770dbdb814ddd86861d35ac94.jar" />
+    </item>
+    <item
+        jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.0.1_9e4d1911939751e8ca3321594bf4b47cfb3d50e3.jar" />
+    </item>
+    <item
+        jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.1_4d4f88f0019d1aca6235e7002a5a6b391544b7dd.jar" />
+    </item>
+    <item
+        jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.0.1_599a92e1a99f4d24aef05ebd91ebfea7724221d5.jar" />
+    </item>
+    <item
+        jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.0.1_0e6621499856ce6ca69fa48d3b4ce0d063609017.jar" />
+    </item>
+    <item
+        jar="H:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.0.1_a987df63e21ca1c921246f38a902eeca4ef68a5c.jar" />
+    </item>
+    <item
+        jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.0.1_8cbf2c6cb24ae3f1f00ca10d814560c7effb6533.jar" />
+    </item>
+    <item
+        jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.0.1_946dd10d61704818b472a14905b4816b27dd0df4.jar" />
+    </item>
+    <item
+        jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.1_37463f4a5234e0eb08faff8d0b2d95e214d84a5e.jar" />
+    </item>
+    <item
+        jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.0.1_c730653aad209c46cbea77fdb307fa24edb423f4.jar" />
+    </item>
+    <item
+        jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.1_aef474ca4ca28049031e3632f43b97d24dc8113f.jar" />
     </item>
     <item
         jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
@@ -100,53 +142,11 @@
         <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.0.1_d19e2e973011fea15391a8cc608dc578db18c949.jar" />
     </item>
     <item
-        jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.0.1_9e4d1911939751e8ca3321594bf4b47cfb3d50e3.jar" />
-    </item>
-    <item
-        jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.1_4d4f88f0019d1aca6235e7002a5a6b391544b7dd.jar" />
-    </item>
-    <item
-        jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.0.1_599a92e1a99f4d24aef05ebd91ebfea7724221d5.jar" />
-    </item>
-    <item
-        jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.0.1_0e6621499856ce6ca69fa48d3b4ce0d063609017.jar" />
-    </item>
-    <item
         jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\myProject\runtime\unspecified\jars\classes.jar"
         jumboMode="false"
         revision="25.0.2"
         sha1="632bf39700c28ba66c117628dab343126ef89551">
         <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\myProject-runtime-unspecified_a0d107ef5a30f7e6a8709610c2118b1a62857fa2.jar" />
-    </item>
-    <item
-        jar="H:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.0.1_a987df63e21ca1c921246f38a902eeca4ef68a5c.jar" />
-    </item>
-    <item
-        jar="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="E:\Work\VisuaStudioProjects\Projects\1395\NativeScriptTemplate\myProject\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.0.1_8cbf2c6cb24ae3f1f00ca10d814560c7effb6533.jar" />
     </item>
 
 </items>

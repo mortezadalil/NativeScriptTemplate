@@ -1,2 +1,2 @@
 # NativeScriptTemplate
-Hello
+Hello world

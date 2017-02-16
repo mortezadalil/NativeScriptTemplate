@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Work\\VisuaStudioProjects\\Projects\\1395\\NativeScriptTemplate\\myProject\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "E:\\Work\\VisuaStudioProjects\\Projects\\1395\\NativeScriptTemplate\\myProject\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Work\\VisuaStudioProjects\\Projects\\1395\\NativeScriptTemplate\\myProject\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\logo.png",
+        "source": "E:\\Work\\VisuaStudioProjects\\Projects\\1395\\NativeScriptTemplate\\myProject\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "E:\\Work\\VisuaStudioProjects\\Projects\\1395\\NativeScriptTemplate\\myProject\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\background.png",
+        "source": "E:\\Work\\VisuaStudioProjects\\Projects\\1395\\NativeScriptTemplate\\myProject\\platforms\\android\\src\\main\\res\\drawable-ldpi\\background.png"
+    }
+]
